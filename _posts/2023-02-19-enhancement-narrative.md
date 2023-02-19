@@ -1,4 +1,4 @@
-The artifact that I am presenting here is a full stack web application, ‘Travlr’. This application now utilizes Python, and the Flask framework along with PostgreSQL for a database.I used this one artifact to met all the goals and requiremnts of the final project of this class. 
+The artifact that I am presenting here is a full stack web application, ‘Travlr’. This application now utilizes Python, and the Flask framework along with PostgreSQL for a database. I used this one artifact to met all the goals and requiremnts of the final project of this class. 
 
 Originally the website was created in my CS 465 a few months ago. Over the course of the semester, we worked to develop it incrementally leading up to a fully functional web application. I used this same approach this semester and worked each week to rebuild the codebase with a new language and database engine and extended its functionality with each iteration. The process was supposed to be “Software Design” then “Data Structures and Algorithms” and finally “databases,” but I found that I had to do the work for the database before the data structure portion due to my development plan. 
 
